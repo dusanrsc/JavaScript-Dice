@@ -1,4 +1,4 @@
-# JavaScript_Dice program marks my beginning of learning Javascript.
+# JavaScript-Dice program marks my beginning of learning Javascript.
 # Started to learning JavaScript on 04/16/2024.
 
 # Screenshot Examples:
