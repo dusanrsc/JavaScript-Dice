@@ -2,7 +2,7 @@
 var number = Math.floor(Math.random() * 6);
 
 // condition
-if (number == 0) {
+if (number === 0) {
 	console.log(
 ` ___________
 |           |
@@ -13,7 +13,7 @@ if (number == 0) {
 |           |
 |           |
 -------------`);
-} else if (number == 1) {
+} else if (number === 1) {
 	console.log(
 ` ___________
 |           |
@@ -24,7 +24,7 @@ if (number == 0) {
 |        *  |
 |           |
 -------------`);
-} else if (number == 2) {
+} else if (number === 2) {
 	console.log(
 ` ___________
 |           |
@@ -35,7 +35,7 @@ if (number == 0) {
 |        *  |
 |           |
 -------------`);
-} else if (number == 3) {
+} else if (number === 3) {
 	console.log(
 ` ___________
 |           |
@@ -46,7 +46,7 @@ if (number == 0) {
 |  *     *  |
 |           |
 -------------`);
-} else if (number == 4) {
+} else if (number === 4) {
 	console.log(
 ` ___________
 |           |
